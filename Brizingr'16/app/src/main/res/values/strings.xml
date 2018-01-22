@@ -1,0 +1,1130 @@
+<resources>
+    <string name="app_name">Brizingr\'16</string>
+    <string name="title_activity_event">Event</string>
+    <string name="name_non_tech">Non - Technical</string>
+    <string name="about_brizingr">
+        BRIZINGR is tech-fest organized by our college since last five years and we planned to continue that legacy for the sixth year with new flying colours and with an aim of doing something different from previous years with new ideas and views with new events. For the first time we are going to have whole event centrally independent of departments.
+        \n \nIn brizingr’16, there are 6 main organizers with 5 additional organizers and faculty members from each department along with Araxes Faculty coordinator.
+        \n \nBrizingr’16 will be consisting of 15-20 Technical Events, 10-12 Non-Technical Events and 2-5 On the Spot/Live Stage Events followed by cultural events on Final day.
+        \n \nTechnical Events Consists of events based on knowledge, skills, innovation, creativity of all Engineering Related Fields to enhance and test Participant`s skills.
+        \n \nBrizingr’16 not only consists of technical events but it also includes NON-Technical Events for NON engineering field students. It’s purely based on fun with soft skill enhancement. It also includes On the Spot and Live events for the visitor’s entertainment and fun.
+        \n \nIn brizingr’16 we are planning to have complete single theme based decoration for every event for all the three days. \n
+    </string>
+    <string name="description">\nIn this event participants have to bring their creative light idea to execute a single challenge i.e. to create or build model or mechanism which can float and can withstand maximum weight to its original weight. </string>
+    <string name="rules">\nIn this event participants have to bring their creative light idea to execute a single challenge i.e. to create or build model or mechanism which can float and can withstand maximum weight to its original weight.
+    \nIn this event participants have to bring their creative light idea to execute a single challenge i.e. to create or build model or mechanism which can float and can withstand maximum weight to its original weight.
+       \nIn this event participants have to bring their creative light idea to execute a single challenge i.e. to create or build model or mechanism which can float and can withstand maximum weight to its original weight.
+    </string>
+
+    <string name="call_view"><u>Call Coordinator</u></string>
+
+
+    <!--comp_data-->
+
+
+    <string-array name="debuggers">
+        <item>Debuggers</item>
+        <item>\nDebug Arena is the programming event which mainly focuses on the programmer find the error and ability to understand the coding ideas and basic languages.\n\nThe idea behind the event is to solve and face different task of the basic computer languages by single participant without any kind of communication.</item>
+        <item>\n<b>LEVEL 1</b>\n
+          \n1) Team Size: 1 Participant\n
+        \n2) Level Duration: 15 mints \n
+        \n3) The pre-requisites for participants in event are sound knowledge.\n
+        \n4) Offline Question paper will be of 20 questions and duration for solving the paper will be 15 minutes.\n
+        \n5) Questions are there multiple choice options and one mark for each question.\n
+        \n6) The questions are in all basic languages\n
+        \n<b>LEVEL 2.</b>\n
+        \n1) Team Size: 1 Participant\n
+        \n2) Level Duration: 20 minutes (10 minutes per task)\n
+        \n3) One PC will be allocated to the students They have to perform one program of basic language in the first task.\n
+        \n4) And, in the Second task Co-ordinate provide the code to the student and student find the error in any programming language \n
+         \n<b>LEVEL 3.</b>\n
+        \n1) Team Size: 1 Participant\n
+        \n2) Level Duration: 30 minutes (10 minutes per task)\n
+        \n3) One PC will be allocated to per students.\n
+        \n4) Co-ordinate provide code to the student in single file in different languages and these phase is also based on higher level programming languages.\n
+        \n5) Student have to separate all programs from a single file and should find error in each and execute the all programs.\n</item>
+        <item>
+            \n1) The Student with highest marks will be promoted to the next phase \n
+            \n2) Time Duration also we are considered.\n
+            \n3) The decision taken by the Event Head would be final.\n
+            \n4) Internet usages will not be allowed to the participants.\n
+            \n5) The selection criteria will be based on the marks obtained.\n
+            \n6) Finally three participant will be selected (Winners).\n
+        </item>
+        <item>Not Required</item>
+        <item> 16, 17 March,\n10:30 am to 4:30 pm</item>
+        <item>Computer Department</item>
+        <item>7096123487</item>
+        <item>7096123487</item>
+    </string-array>
+
+    <string-array name="photoshop_mania">
+        <item>Photoshop Mania</item>
+        <item>\nAs the name suggest i.e. Photoshop Mania, Photoshop software is used. It’s a famous photo manipulation and designing software. This event is based on Photoshop software i.e. Photoshop CS6.Single participant can only take part in this event.\n \n Participant has to complete different tasks or levels to become winner. \n\nEach level will be challenging. Participants creativeness will be checked at all the levels. \n\nParticipants must follow the rules of each level. No internet connection will be provided. Participant must use given resources. \n\nBest creation out of all will be considered as winner and certificate will be provided.</item>
+        <item>\nParticipants have to face three levels to become the winner.</item>
+        <item>\nSingle participant is allowed.\n
+        \nAdobe Photoshop CS6 software is used.\n
+        \nParticipants are supposed to complete the task in the time limit.\n
+        \nParticipants can only use given resources. No internet is provided.\n
+        \nRegistration Fee: 50 rupees per person.\n
+        \nPhotoshop Version : ADOBE PHOTOSHOP CS6\n
+        \nParticipant : Single participant is allowed. No team work.\n
+        \nFields accepted : All branch students are eligible to take part in this event\n
+        </item>
+        <item>Not Required</item>
+        <item> 16, 17 March,\n10:30 am to 4:30 pm </item>
+        <item>Computer Department</item>
+        <item>9426519364</item>
+        <item>9426519364</item>
+    </string-array>
+
+    <string-array name="cquiz">
+        <item>C Quiz</item>
+        <item>\nAlmost every Engineer knows ‘C Language’, but very few knows to code efficiently and in optimized way.\n
+\nHere’s a chance to exercise your gray cells about C and some enjoyable tricks with opponent’s time being your biggest enemy.\n\n Do you think you can handle it all?</item>
+        <item>\nThe event/competition comprises of three rounds: Elimination, Semi-Finals and Finals.\n
+\nEliminations Round will be a quiz round based on C questions distributed weightage vise.\n
+\nSemi-Finals Round will be testing you Logical skills and Time management.\n
+\nFinals will be Practical Round. Clues might be provided at different stages. You cannot proceed to next clue until you have cracked the one you are attempting.</item>
+        <item>\nOne or max Two can participate in the contest.\n
+   \n  The one team that finishes all questions first shall be declared winner.\n
+\nTimer will begin on the day for the duration the event is running.\n
+\nTop 3 teams will be given prizes.\n
+\nTime may be used to resolve any ties between the winning teams.\n
+\nIn any case of discrepancy, the decision of the Judges and the co-ordinators stands final.</item>
+        <item>Not Required</item>
+        <item> 16, 17 March,\n10:30 am to 4:30 pm </item>
+        <item>Computer Departmentt</item>
+        <item>8866152251</item>
+        <item>8866152251</item>
+    </string-array>
+
+    <string-array name="code_ninja">
+        <item>Code Ninja</item>
+        <item>\nCode Ninja is the programming and web designing event which mainly focuses on the programming and web designing and ability to understand the coding ideas and design basic HTML layouts.\n \nThe idea behind the event is to solve and face different task of the basic computer languages by single participant without any kind of communication.\n\n In this event included lots of interesting on the spot games during free time.\n\n
+\nThe participants should report at the venue 30 minutes before the scheduled time of the event.\n
+\nInternet usages will not be allowed to the participants.\n
+\nIf any rules are found to be broken by any of the team member, it will lead to their disqualification\n
+\nThe decision of the event heads would be final and shall not to be subject to any change.</item>
+        \n<item>\nLEVEL 1 :\n
+\n1) Team Size: 1 Participant\n
+\n2) Level Durartopn-15 mints\n
+\n3) The pre-requisites for participants in this event are sound knowledge of the following: Basic Programming languages Like HTML, CSS, C, C++, Core PHP etc.\n
+\n4) Offline Question paper will be of 20 questions and duration for solving the paper will be 15 minutes. \n\n5) Questions may be of the nature of fill-in-the blanks, true false or multiple choice options.\n\n
+
+       \n LEVEL 2 :\n
+        \n1) Team Size: 2 Participants (Team allocate by the Top 50 rankers based on the chit game)\n
+       \n 2) Level Duration: 30 minutes (15 minutes per task)\n
+       \n 3) The Second level will be based on programming and web designing with different task.\n
+       \n 4) Each team will be provided with 2 tasks which they need to solve within 30 minutes.\n
+       \n >Blind Code (Off monitor coding).\n
+        \n>HTML Layout (Basic idea of HTML and CSS).\n
+       \n 5) Each participant of the team will be given 15 minutes to perform task. After first 15 minutes, the other team member will continue the 2nd task by its team member. Additional 5 minutes shall be provided for the switching purpose. In these 30 minutes, team members are allowed to interact with each other via any modes of communication.\n
+       \n 6) Judging criteria will be based on the quality of the solution, the Completion of the problem given to them and the complexity of their solution.\n\n
+
+       \n LEVEL 3 :-\n
+      \n  1) Team Size: 1 Participant.\n
+   \n     2) Final Round Duration: 1 hour.\n
+     \n   3) Final round based on the higher level programming languages and responsive web design with different interesting task and interesting game.\n
+      \n  4) You can able to select task by yourself with chit game. You should open 3 chit compulsory.\n
+       \n 5) If you want to win, then you need to complete more than 3 tasks.\n
+       \n 6) Judging criteria will be based on the quality of the solution, the Completion of the task given to them and the complexity of their solution</item>
+        <item>
+           \n 1) The selection criteria will be based on the marks obtained.\n
+           \n 2) In case of tie, participants scoring 0 marks without attempting any question will automatically be selected against the participants scoring the same by attempting the question\n
+           \n 3) The decision taken by the Event Head would be final.\n
+        </item>
+
+        <item>Not Required</item>
+        <item> 16, 17 March,\n10:30 am to 4:30 pm </item>
+        <item>Computer Department</item>
+        <item>9714124300</item>
+        <item>9714124300</item>
+
+    </string-array>
+
+
+    <!-- Mechanical_data-->
+
+
+    <string-array name="robowar">
+        <item>Robowar</item>
+        <item>\nIn the RoboWar, a war between two robots which have different mechanical mechanism coupled or embedded to damage or restrict opponent movement.</item>
+        <item>No Levels</item>
+        <item>\n<b>1) Team Specification:</b>\n
+        \nA team may consist of a maximum of 4 participants, all from the same institute or may be from different institute\n
+        \n<b>2) Robot Specification:</b>\n
+        \nRobo should fit into a box 40*40*40CM (maximum). Maximum weight of robot should not exceed than 40 kg. (Tolerance +/- 0.5 kg).\n
+        \nThe external device used to control the machine or any External device (such as batteries, remotes) is not included in the size constraint.\n
+        \nThe machine should be controlled by a wireless remote control Mechanism or wired one throughout the war.\n
+        \nIn case of wireless system, it should have a minimum four Frequency remote control circuit or two dual control circuits or A transmitter-receiver paired module so that the frequency Interferences with opponent team can be avoided (in case of any interference in the wireless systems, they will not be considered for rematch or in the results).\n
+            \nRemote controls that are readily available in the market may also be used.\n
+        \nThe machine must not be made from Lego parts, or any readymade Kit, if we find such machine it will be disqualified.\n
+         \nIf the machine is wired then the wire should remain slack under all circumstances during the competition. All the wires coming out of the Machine should be stacked as single unit.\n
+        \n<b>3) Game rules:</b>\n
+            \nMaximum 4 participants in a team.\n
+            \nIf the participants are not present at the arena on the given time slot then that team will be disqualified.\n
+            \nBurning type of instruments not allowed.\n
+            \nThe machines are not allowed to leave any loose parts on any part of the arena.\n
+            \nJudges decision shall be treated as final and binding on all.\n
+            \nBots immobilized for 10 seconds will result in reduction of points.\n
+\nIf any machine remains immobilize for1 minute it will treated passive and opponent will win the match.\n
+\nIn case of both teams immobilize for1 minute both team will be disqualify.\n
+\nOne or two operators will operate machine in the event.\n
+\nDamage to arena is not allowed and will lead to disqualification of team.\n
+\nThe wires should remain slack during the match.\n
+\nTeams should take care of their Bot, they will be responsible for the damage to their bots.\n
+\nDecision made by the judges will be final.\n
+\nJumping and hopping is not allowed Flying (using airfoil, helium balloons, ornithopters etc.) is not allowed. No rematch will be there.\n
+  \n<b>4)Criteria for Triumph:</b>\n
+\nA robot is declared victorious if its opponent is immobilized or out of the arena.\n
+\nA robot will be declared immobile if it cannot display linear motion of at least one inch in a timed period of 30 seconds. A bot with one side of its drive train disabled will not be counted out if it can demonstrate some degree of controlled movement.\n
+\nIf both robots survive the five minutes at that point, the robot with the higher hit points wins.\n
+\nThe winner moves on, the loser is eliminated from the tournament.\n
+            \n<b>5)Safety Rules:</b>\n
+            \nCompliance with all event rules is mandatory. It is expected that competitors stay within the rules and procedures of their own accord and do not require constant policing.\n
+\nIf you have a robot or weapon design that does not fit within the categories set forth in these rules or is in some way ambiguous or borderline, please contact the event organizers.\n
+\nAll weapons must have a safety cover on any sharp edges\n
+</item>
+        <item>Not Required</item>
+        <item> 16, 17 March,\n10:30 am to 4:30 pm </item>
+        <item>Mech Department</item>
+        <item>8140366706</item>
+        <item>8140366706</item>
+    </string-array>
+
+    <string-array name="JUNKYARD_SALVATION">
+        <item>Junkyard Salvation</item>
+        <item>\nThis provides better platform for you to exhibits your technical skills.\n\n You may implement your brainstorming ideas to challenge the given task.\n\n We will provide all the related materials and equipment.</item>
+        <item>\n<b>LEVEL - 1 :</b>\n
+        \nAptitude test. (General maths and normal physics up to 11-12th science)\n
+    \n<b>LEVEL - 2 : </b>\n
+        \nMaking of catapult.\n
+        \n<b>LEVEL - 3 :</b>\n
+        \nSurprise round. </item>
+        <item> \nEach team should have maximum 4 members.\n
+\nAll the material or junk and required tools are provided by host institute.\n
+\nNo materials and spanners will be allowed from outside. If found then necessary steps will be taken.\n
+\nThis event passes through out three phase. And each phase have specific skilled task needed to perform in time.\n
+\nThe team which has highest score in the last level of the event declared as a winner.\n
+\nFaculties and event coordinators hands power of attorney in case of any doubt.\n
+        </item>
+        <item>Not Required</item>
+        <item> 16, 17 March,\n10:30 am to 4:30 pm </item>
+        <item>Mech Department</item>
+        <item>7405330773</item>
+        <item>7405330773</item>
+    </string-array>
+
+    <string-array name="ROBO_RUPTUR">
+        <item>Robo Ruptur</item>
+        <item>\nBalloon is bursted by Robo, driving on the track with help of TWO members in which one is become blind who drive Robo and other member guide him/her. \n\nThe balloons are bursted by some mechanism in it. \n\nThere are some hurdles and time limit for completing the task.</item>
+        <item>\n<b>LEVEL - 1 :</b>\n
+        \n In this round TIME duration is 7 minutes for completing the task.\n
+            \n<b>LEVEL - 2 : </b>\n
+        \nMTime limit for complete for the event in this round is about 4 minutes.\n
+            \n<b>LEVEL - 3 :</b>\n
+        \nIn third round, More HURDLES are on the Robo track.\n </item>
+        <item>\nOnly one Robot is allowed per team.\n
+\nMaximum THREE members are allowed in one team.\n
+\nIn any round, Any two members perform the task during the round they can’t replace the members, After that in next round they can change member.\n
+\nMaximum dimensions of Robot: 25cm *25cm *25cm (l*b*h)\n
+\nSame Robot must be used by the team for all rounds.\n
+\nThe wireless Robot get the EXTRA point.\n
+\nNo AC supply will be allowed.\n
+\nParticipants are not allowed to keep directly FIRE type anything to burst balloons, inside the Robot.\n
+\nParticipants are allowed only TWO times interact with Robot during event after that they loss their points.\n
+\nDecision of the JUDGES/CO-ORDINATORS are final.\n
+</item>
+        <item>Not Required</item>
+        <item> 16, 17 March,\n10:30 am to 4:30 pm </item>
+        <item>Mech Department</item>
+        <item>9586008254</item>
+        <item>9586008254</item>
+    </string-array>
+
+
+
+    <!--//EC Data-->
+
+
+    <string-array name="WIRELESS_ROBORACE">
+        <item>Wireless Roborace</item>
+        <item>\nIn the RoboRace two Robots run against time and fast, steady and stiffer ultimately reaches to goal.</item>
+        <item>\nThere will a qualifying round for each team.
+        \n\nThe top team from qualifying round makes it to the final round on basis of time trials.</item>
+        <item>\n<b>Task :</b>\n
+        \n1) Design a robot wireless within the specified dimensions that can operated manually and can travel through all turns of the track.\n
+\n2) The robot that will complete the specified task in least time will be the winner.\n
+\n3) Think your robot can overcome any obstacle-big or small in the least of time.\n
+            \n<b>BATTERIES and POWER :</b>\n\n
+            \n1) Batteries must be sealed, immobilized electrolyte type (gel cell, lithium, NiCad, or dry cells) \n
+\n2) The electric voltage anywhere in the machine should not be more then 12V DC at any point of time.\n
+             \n<b>GENERAL RULES :</b>\n\n
+            \n1) This is racing event so fastest and most balanced robot will win.\n
+\n2) Robot should be as per the given specifications.\n
+\n3) Think your robot can overcome any obstacle-big or small in the least of time.\n
+\n3) Each team can have maximum four members. Students from different institutes can form a team.\n
+\n4) Each member of the team must contain the identity card of his/her respected institute.\n
+\n5) The robot should not damage the arena.\n
+\n6) No test practice will be allowed on the arena.\n
+\n7) The robot must not leave behind any of its parts during the run; else it will result in disqualification.\n
+\n8) Unethical behavior could lead to disqualification. Faculty coordinators have all the rights to take final decision for any matter during the event.\n
+\n9) Judge\'s decision will be considered final.\n
+\n10) Certificates of Participation will be given to all the teams that will participate in the event, but not to the teams which get disqualified due to disobeying any of the competition rules.\n
+         \n<b>Robot Specification: </b> \n\n
+            \n 1) The maximum dimension of the robot can be 30 cm x 30 cm x 30 cm.\n
+\n2) The robot should be wireless.\n
+\n3) Maximum weight must not exceed 3 kg.\n
+\n4) The machine must not be made from Lego parts, or any ready-made kit, if we find such machine it will be disqualified.\n
+       \n <b>Game Rule:</b>\n\n
+            \n1) The competition is based on time trail system. There will a qualifying round for each team.\n
+\n2) The top team from qualifying round makes it to the final round on basis of time trials.\n
+\n3) Wires should remain slack during the course of the run. Pulling the wire to aid the robot in traversing may lead to disqualification.\n
+\n4) If any of the robots starts off before start up call, the counter would be restarted and the machines will get a second chance. If repeated again then team will be disqualified.\n
+\n5) Your robot must be ready when call is made for your team.\n
+\n6) Team members will be allowed only three times to touch or reset their robots position during the run. However, this will lead to a time penalty and timer will not stop during this course of action.\n
+\n7) The robot will be judged on basis of (in priority):- a. Time to complete the track. b. Number of checkpoints cleared.\n
+\n8) Machine must not contain any readymade kits, pneumatic and hydraulic systems, IC engines.\n
+\n9) Decision about your robot will be taken by the organizers.\n
+\n10) No team will get a second chance after completing the track with poor score.\n </item>
+        <item>Not Required</item>
+        <item> 16, 17 March,\n10:30 am to 4:30 pm </item>
+        <item> EC Department </item>
+        <item>8866650446</item>
+        <item>8866650446</item>
+    </string-array>
+
+    <string-array name="ROBO_SOCCER">
+        <item>Robo Soccer</item>
+        <item>\nIt is robotic version of football in which operator Goal with help of Robot.</item>
+        <item>\nNo Levels</item>
+        <item>\n<b>RULES AND REGULATIONS :</b>
+        \n1) Each team will have to defend the goal on its side as well as score the goal on the opposite side. \n
+ \n2) A team may consist of a minimum of 1 and maximum of 4 members. \n
+ \n3) Students from different educational institutes can form a team. \n
+ \n4) There is no restriction to the number of teams participating from same educational institute.. \n
+ \n5) All students with a valid identity card of their respective educational institutes are eligible to participate. \n
+ \n6) During the Rounds, only maximum of two team members are allowed in the arena, one member will control the robot and other to guide it. However, teams are allowed to switch members in different rounds. \n
+ \n7) Teams have to be ready with their bots. No time will be given once the robot is on the Arena. If the bot is proved to be inactive for more than 60 secs, it is disqualified. \n
+ \n8) The game will start at the count of 3 given by refree followed by whistle. In case a team starts its robot before the whistle, the game will be restarted and a team making this mistake for more than 3 times will be disqualified. \n
+ \n9) In case of any discrepancy the final decision rests in the hands of coordinators. \n
+ \n10) Any act of misbehavior or misconduct will lead to immediate disqualification of the team. \n
+ \n11) The robots are not allowed to use grippers or actuations which are intended to harm the opponent’s robot \n
+        \n<b>ROBOT SPECIFICATIONS :</b>\n\n
+            \n1) Robot should be wireless.
+\n2) Power supply should not exceed more than 12 V.\n
+\n3) Dimension of bot must be within 25cm×25cm×25cm of cube.\n
+\n4) A team can make one robot at max.\n
+\n5) Whatever components the participants enter on to the field should not be more than 3.5kg. Robot weight should not be more than 3.5 kg.\n
+\n6) The robots are not allowed to use grippers or actuations which are intended to harm the opponent’s robot.\n
+\n7) The competition is aimed at making the game a friendly football match rather than a robo war.\n
+             \n<b>GAME PLAY :</b>\n\n
+            \n1) Each team will have to defend the goal on its side as well as score the goal on the opposite side.\n
+\n2) The ball can be either dragged or pushed by the team.\n
+\n3) Each goal scored by a team by rolling the ball on the ground will fetch the team 1 point.\n
+        </item>
+        <item>Not Required</item>
+        <item> 16, 17 March,\n10:30 am to 4:30 pm </item>
+        <item>EC Department</item>
+        <item>7434824050</item>
+        <item>7434824050</item>
+    </string-array>
+
+
+    <string-array name="INSTANT_CIRCUIT_MAKING">
+        <item>Instant Circuit Making</item>
+        <item>\nIt is a contructing event in which participant have to make circuit according to the circuit diagram.</item>
+        <item>\n<b>1) Questionary MCQ</b>\n
+        \n=> First round will consist of MCQ test which will test both the electronics knowledge and logical thinking of participants.\n
+\n=> It’ll be a multiple choice question paper and no negative marks will be awarded.\n
+\n=> Fundamentals of digital and analog electronics will be adequate to qualify for the next round.\n
+       \n<b>2) Secrete round</b>\n
+        \n=> This round is secrete all its name suggested there will be any task given on the spot and you have to perform it in given time limit.\n
+        \n<b>3) Final round</b>\n
+        \n=> checked in this round. Finalists will be given a problem statement and they have to come up with a feasible solution using the components provided in the given time.\n\n You will be judged on the efficiency of the output and the time taken to make the best possible circuit.</item>
+        <item>\n1) Only 3 member are allowed per team.\n
+\n2) No team change will allowed after registration.\n
+\n3) Each team have to be at the event spot in time suggested.\n
+\n4) The judge decision will be the final in all round.\n</item>
+        <item>Not Required</item>
+        <item> 16, 17 March,\n10:30 am to 4:30 pm </item>
+        <item>EC Department</item>
+        <item>7359994005</item>
+        <item>7359994005</item>
+    </string-array>
+
+    <string-array name="EMBEDED_CODING_EVENT">
+        <item>Embeded Coding Event</item>
+        <item>\nIt is a programming event in which participants will be given a task and according to it they have to make the program and coding. \n\nParticipants have to do coding on Arduino uno u3.</item>
+        <item>No Levels</item>
+        <item>\n1) There will be maximum 2 participants allowed per team.\n
+\n2) Participants are required to solve the embedded systems based problems through coding, programming skills and knowledge in field of embedded systems will be tested.\n
+\n3) Programming will be based on either C or assembly based.\n
+\n4) The number of rounds will be decided on the basis of number of participant teams.\n
+\n5) Participants will be Provided with PC and those who have their own
+Arduino Board can bring it. Any sort of damage will be penalized.\n
+\n6) Any damage to the provided components will be penalized.\n</item>
+        <item>Not Requiredd</item>
+        <item> 16, 17 March,\n10:30 am to 4:30 pm </item>
+        <item>EC Department</item>
+        <item>7359102366</item>
+        <item>7359102366</item>
+    </string-array>
+
+
+
+
+    <!--//CIVIL DATA-->
+
+
+
+    <string-array name="MODEL_O_MAKER">
+        <item>Model O Maker</item>
+        <item>\nThis event shall be based on practical knowledge of civil engineering. Participants will have to make a model according to given conditions.\n
+\nSoil liquefaction, Seismic base isolation, Traffic signal model, RCC ductile, Intelligent Transportation system, Remote sensing, rain water diversion, Retro fitting of building, Tensegrity structure, and much more on your innovative ideas\n</item>
+        <item>\n<b>LEVEL 1</b>\n
+        \nGeneral performance of model in front of visitors. \n
+        \n<b>LEVEL 2</b>\n
+        \nGeneral performance of model in front of judges.
+    </item>
+        <item>\n1) Maximum 4 and minimum 1 participate in a group\n
+\n2) Maximum size of model 1m x 1m. \n
+\n3) All the sources require to perform will have to bring by participates. \n
+\n4) Model based any type of testing will not be considered in event.\n
+\n5) Judgement based on ideas and performance of model.\n
+\n6) Judge’s decision is final. </item>
+        <item>Not Required</item>
+        <item> 16, 17 March,\n10:30 am to 4:30 pm </item>
+        <item>Civil Department</item>
+        <item>8469274573</item>
+        <item>8469274573</item>
+    </string-array>
+
+    <string-array name="KNOWLEDGE_KNAGARIYA">
+        <item>Knowledge Knagariya</item>
+        <item>\nIn this events it is a based on quiz format. Your intelligency regarding civil knowledge is perfectly checked. You also get a chance to walk in knagariya of civil.</item>
+        <item>\n<b>LEVEL 1</b>\n
+        \nQuestions paper based on general concept of civil\n
+             \n<b>LEVEL 2</b>\n
+        \nBased on clue given…..it is a Civil Hunt.\n
+         \n<b>LEVEL 3</b>\n
+         \n Burger round</item>
+        <item>
+            \n1) Each team must have 3 members. \n
+\n2) Do not disturb any other team.\n
+\n3) Do not affect to other team. \n
+\n4) Do not argue with the coordinators.\n
+\n5) Do not pick up to other team clue. In case if you pick the clue of other team.The team will be directly disqualified.\n
+        </item>
+        <item>Not Required</item>
+        <item> 16, 17 March,\n10:30 am to 4:30 pm </item>
+        <item>Civil Department</item>
+        <item>9409517782</item>
+        <item>9409517782</item>
+    </string-array>
+
+    <string-array name="MAKE_D_CITY">
+        <item>Make D City</item>
+        <item>\nIn this event participants will have to carry out general town planning on the basis of given topographical criteria and general bye-laws and accordingly prepare a proposed plan.\n\n Event is having a new concept concern with town planning. \n\nYour power of managing the town is properly checked beneath of it.\n\n A bounded region and unlimited ideas truly excited right.</item>
+        <item>\n<b>LEVEL 1</b>\n
+        \nOn the spot general town planning on basic ideas on A2 size sheet.\n
+             \n<b>LEVEL 2</b>\n
+        \nDesign of water supply and drainage system within your model.\n</item>
+
+        <item> \n 1) Maximum 4 and minimum 2 participate in a group.\n
+                \n2) Stationary (e.g. paper, scissor, fevicol, gum, cello tap, scale,
+                 pencil, colours, sketch pen) and required geometric instruments must have to bring by participate. \n
+                \n3) Participate must have bring sketch pens (blue, black) for level 2.\n
+                \n4) A1 size sheet and other decorative material of modes
+                (samples of school, hospital, bus-stand, recident building, shopping mall, etc.) will
+                be giving by us on behalf of virtual money given by us on the spot.\n
+                \n5) No other decorative material will be used.\n
+                \n6) The round will have to complete in given time.\n
+                \n7) Judge’s decision is final.\n
+        </item>
+
+        <item>Not Required</item>
+        <item> 16, 17 March,\n10:30 am to 4:30 pm </item>
+        <item>Civil Department</item>
+        <item>9712050419</item>
+        <item>9712050419</item>
+    </string-array>
+
+    <string-array name="BOB_D_BUILDER">
+        <item>Bob D Builder</item>
+        <item>\nIn this events Candidates have to create a structure of three-storey building by using given material from our side. In that material candidate must be design that structure by using straw and pin. \n
+\nIn this event participant will have to build structure/model by using given material and will be tested for its load carrying capacity.\n</item>
+        <item>\n<b>LEVEL 1</b>\n
+        \nCandidates should have to design their structure within given time period.\n
+             \n<b>LEVEL 2</b>\n
+        \nCalculation of load carrying capacity. \n
+         \n<b>LEVEL 3</b>\n
+         \nA structure which sustain a maximum load that will decided as winner.</item>
+        <item>\n1) Maximum 4 and minimum 1 participate in a group. \n
+\n2) Straw and pin will be provided by authority. \n
+\n3) Design criteria of structure: \n
+\nArea: 2 straw X 2 straw \n
+\nHeight: 3 stories (As per length of straw) \n
+\nJoint: Pin joint\n
+
+\n4) No other decorative material will be used.\n
+\n5) Both the round will have to complete in given time.\n
+\n6) Do not bend the straw, do not cutting the straw and do not bend the pin otherwise participate directly disqualified.\n
+\n7) Judge’s decision is final.\n</item>
+        <item>Not Required</item>
+        <item> 16, 17 March,\n10:30 am to 4:30 pm </item>
+        <item>Civil Department</item>
+        <item>9033796254</item>
+        <item>9033796254</item>
+    </string-array>
+
+
+
+
+    <!--//Auto Data-->
+
+
+
+    <string-array name="DEATH_RACE">
+        <item>Death Race</item>
+        <item>\nIn this event different levels are provided in which we will check various skill of robot handling (different terrain). \n\nDifferent skill of robot handler can also be checked.\n\n Some simple handlers there are at initial stage and the difficulties of hurdles is increase as level increasing.</item>
+        <item><b>LEVEL 1</b> \n
+        \nRacing between two robot on track on Track with obstacles\n
+             \n<b>LEVEL 2</b>\n
+        \nRacing between two robot on Track with obstacles.  \n
+         \n<b>LEVEL 3</b>\n
+         \nSurprise round.</item>
+        <item>\n1) The basic principle of the robot id that it should be able to traverse on both land and water.\n
+\n2) Maximum 4 candidate can be participated.\n
+\n3) Registration of the all team member must be required.\n
+\n4) Dimensions:\n \n(i) A maximum length 0.30 meter.\n (ii) Maximum breadth: 0.30 meter. \n(iii) Maximum height: 0.40 meter. \n
+\n5) Robot should be motor power use of IC engine are not allowed. \n
+\n6) The voltage of the battery used should not be more than 24V. \n
+\n7) The participant are free to use materials of their choice. \n
+\n8) Usages of readymade and almost ready made kites are strictly prohibited. Although use of readymade actuators/motors, remote control are allowed. \n
+\n9) Any team violating the above rules will be disqualified immediately. \n
+\n10) Use of multiple motors and actuators is allowed. \n
+\n11) The run is said to be complete when the robot moves through the path specified.\n</item>
+        <item>Not Required</item>
+        <item> 16, 17 March,\n10:30 am to 4:30 pm </item>
+        <item>Auto Department</item>
+        <item>8141310544</item>
+        <item>8141310544</item>
+    </string-array>
+
+    <string-array name="F1_RACE">
+        <item>F1 Race</item>
+        <item>\nA pure racing event using wireless controlled cars (based on radio, Infrared or wi fi technology).\n\n Simple, no big obstacle circuit for each level .only the fast but steady wins the race.\n\n We are giving an opportunity to the Schumacher within you to came to the live race-track. \n\nTune your cars to their best performance.
+</item>
+        <item>\n\n<b>LEVEL 1</b>\n
+        \nA standard formula one circuit made form a combination of four international level grand, prix circuits.\n
+             \n<b>LEVEL 2</b>\n
+        \nAddition of some challenging race-track, making the primary circuit a bit linger and giving a chance to participant to take decisive turns with lucrative options. You decide the best part of the track for your car. \n
+         \n<b>LEVEL 3</b>\n
+         \nAddition of few more meters to the tar and few minimal obstacles like short jump.</item>
+        <item>\n1) Maximum 4% persons are allowed per team.\n
+\n2) Car dimensions: 30x20x20 cm. \n
+\n3) Car should be wirelessly controlled for our range of approx 50 meters.\n
+\n4) Battery specifications: 9-24 V, 1300 mAH (minimum).\n
+\n5) Keep sufficient battery backup ( at least one extra battery).\n
+\n6) Participants must submit their operating frequency within 1 week of registration.\n</item>
+        <item>Not Required</item>
+        <item> 16, 17 March,\n10:30 am to 4:30 pm </item>
+        <item>Auto Department</item>
+        <item>9537853393</item>
+        <item>9537853393</item>
+    </string-array>
+
+    <string-array name="DESIGN_MAESTRO">
+        <item>Design Maestro</item>
+        <item>\nThis category allows for students to display their very best technical drawings.\n\n This category is for 2D/3D CAD drawings.\n\n You can enter a multi-view drawing. This is a display of the students’ ability to create technical drawings, not their design ability.\n\n Judges will base their scores on: neatness, completeness, difficulty and drawing skills.</item>
+        <item>\n\n<b>LEVEL 1</b>\n
+        \nWe given a simple design and you make in 2D design. \n
+             \n<b>LEVEL 2</b>\n
+        \nWe given a Complex design and you make in 3D design. \n
+         </item>
+        <item>\n1) Limited to one entry per student.\n
+\n2) Project must be student work. \n
+\n3) Students must utilize standard CAD equipment.\n
+\n4) A complete drawing is required. \n
+\n5) Teamwork is not allowed.\n</item>
+        <item>Not Required</item>
+        <item> 16, 17 March,\n10:30 am to 4:30 pm </item>
+        <item>Auto Department</item>
+        <item>8866613572</item>
+        <item>8866613572</item>
+    </string-array>
+
+
+    <!--ic data-->
+    <string-array name="marine_drive">
+        <item>Marine Drive</item>
+        <item>\nlevels are provided in which we will check various skills of boat handling . \n\nDifferent skills of boat handler can also be checked .\n\n Some simple hurdles and tasks are there at initial stage and the difficulty of hurdles and tasks is increased as level increasing .
+</item>
+        <item>
+           \n LEVEL 1 :- \n\nComplete the Simple Path by Some Check points in Minimum time.\n
+\n\nLEVEL 2:-\n\n Complete the path by more obstacle.\n
+\n\nLEVEL 3:-\n\n abc vs xyz.\n
+        </item>
+
+        \n<item>
+          \n  Model Specifications :\n
+\n1. 30cm x 30cm x 30cm ( LxBxH ) ( wired or wireless Boat ).\n
+\n2. Maximum24 Volt is Allowed.\n
+\n3.Boat have a suction pump is Necessary for Good Competition.\n
+\n4.Every Boat Must have 10cm x 10cm Flat Surface Required For Round 3 .\n
+\n5. A Team May Consist Maximum 4 Members .\n
+\n6. Sharing of Participants As well As Team Members is Not Allowed . If it is Found Doing so The teams will be Disqualified.\n
+\n7. During the Round Only Two members are Allowed in arena . Team are allowed to switch members after completion of Round only.\n
+\n8. Team Have to be Ready with their Boats at the time of Round . If the Boat is Found to be inactive For more Then 2 Minutes on Arena , it will Disqualified.\n
+\n9. Co - ordinators Decision Shall be treated as final and Binding on All .\n
+\n10. Co - ordinators are Allowed to Change any Rule At the Time without any Pre – Declarations.\n
+        </item>
+        <item>Not Required</item>
+        <item> 16, 17 March,\n10:30 am to 4:30 pm </item>
+        <item>IC Departmentt</item>
+        <item>9898547350</item>
+        <item>9898547350</item>
+    </string-array>
+
+    <string-array name="dirt_race">
+        <item>Dirt Race</item>
+        <item>\nThis is Racing Based Event .\n\nParticipants have to Drive There Robot in different track .</item>
+        <item>
+            \nLEVEL 1 :- \n\n Participant have to complete first part of track in minimum time for qualify for second round.\n
+\nLEVEL 2 :-\n\n Participant have to complete full track in minimum time , Difficulty Level is one up\n
+\nLEVEL 3 :- \n\nParticipant have to complete full track in minimum time with full difficulties\n
+        </item>
+        <item>
+           \n Robot Specification : - \n\nRobot Size : \n30x30x30 cm ( L x B x H ) Maximum 24 volt allowed Maximum Four Person allowed in one team . \n
+\nEach team must have individual robot .\n
+\nJudges decision will be final . \n
+\nCoordinator can change the rules as per requirement.\n
+        </item>
+        <item>Not Required</item>
+        <item> 16, 17 March,\n10:30 am to 4:30 pm </item>
+        <item>IC Department</item>
+        <item>9924215150</item>
+        <item>9924215150</item>
+    </string-array>
+
+    <string-array name="catch_me_if_u_can">
+        <item>Catch Me If U Can</item>
+        <item>
+           \n There will be 2 participants in this event , one is thief and other one is police .\n\n Thier has to reach at the destination in 3-5 min ( final will be decided after track is built ) . And the police has to catch the thief before he reaches the escape zone .\n\n Both will start together , and their paths don not cross each others till the escape zone .\n\n Police has to cross the escape zone and catch the thief by entering the thief\'s area If thief reaches the escape zone before police chases him thief wins .\n\n And if police chases the thief before he reaches the escape zone , police wins . \n\nThief will win by staying on the target platform for at least 3 seconds . During 3 sec , if police chases him , then police will win the chase .
+        </item>
+        <item>There is a 3 rounds.</item>
+        \n<item>
+          \n  Robot Specification : -\n
+
+        \n    The ROBOT should fit of dimension 30 cm x 30 cm x 30cm ( lxbxh ) . \n\nThe machine should not exceed 5 kg of weight . Weight of remote controller will not be counted . In case of wired robots , wires should at least 5 m long .\n\n Output of connected power packs used by a robot cannot exceed 12.0 V ( nboard power supply should not be given by the institute ).
+
+        \n    A Robot must not contain following things :\n
+
+         \n   May Not emit in frared light , any components that may be hazardous to par- ticipants , the board , or other robots , Sharp or pointed edges . Strong magnets , Liquids , Shooting parts , any kind of flame or flammable component .\n\n All robots must have a stable handle to hold them . The handle must be easily accessible , for example on top of the robot . \n\nThe dimensions of the handle may exceed the 20 cm height limitation . The handle must not be used to mount components of the robot.
+
+          \n\n  Team Specification :\n
+
+         \n   A team may consist of a maximum of 4 participants .\n\n Participants can be from the same or different educational institutes . Team Name : Every team must have name which must be unique .\n\n reserves the right to reject entries from any Team whose name it deems inappropriate offensive or conflicting . Organizers must be notified during if a Teams name has been changed . \n\nTeam Representative Each team must specify their Team Representative ( Leader ) at the time of registration on the website .\n\n All important communications between organizer and the registered teams will be done through Team All obstacles are surprised
+        </item>
+        <item>Not Required</item>
+        <item> 16, 17 March,\n10:30 am to 4:30 pm </item>
+        <item>IC Department</item>
+        <item>9574600824</item>
+        <item>9574600824</item>
+    </string-array>
+
+
+    <!-- //Non -Technical-->
+
+
+
+    <!--non-tech comp-->
+
+    <string-array name="ser_piratas">
+        <item>Ser Piratas</item>
+        <item>You have to given a clue.One clue leads to another clue.Each clue is hidden in a campus.\n\nEach package of clues includes next clue and piece of map.\n\nFinally collecting all pieces of map, make full map.Using that map,
+        find blackperl(ship).\n\nFirst team bring blackperl home wins.</item>
+        <item>There is a multiple round.</item>
+        <item>\n1) Minimum 2 and Maximum 4 members in each group.\n
+        \n2) Teams must have minimum 4 and maximum 5 members.\n
+        \n3) Members can’t be changed once the game is started\n
+        \n4) Game should be followed as guided in starting session\n
+        \n5) Each team will be monitored during game by coordinators.\n
+        \n6) Participants can’t make modifications in clues given.\n
+        \n7) Modifications in rules and clues can be done by game coordinators only, according to situations if any.\n
+        \n8) Participants have to verify the last clue to the respective coordinator then only they will be provided with next clue.\n
+        \n9) Participants found damaging clues or any part of the game then they will be disqualified.\n
+        \n10) Participants shall not disturb the college management.\n
+        \n11) Participants will not be helped by any person from the coordination side, clues must be solved by team members only.\n
+        \n12) If found breaking any rules, then teams can be disqualified by event coordinators.\n</item>
+        <item>Not Required</item>
+        <item> 16, 17 March,\n10:30 am to 4:30 pm </item>
+        <item>Computer Departmentt</item>
+        <item>9913789327</item>
+        <item>9913789327</item>
+    </string-array>
+
+    <string-array name="lan_gaming">
+        <item>Lan Gaming</item>
+        <item> - </item>
+        <item>\nGame will be played in 3 round.</item>
+        <item>\n1) The entry fee per group of 5 player will be 200Rs.\n
+        \n2) Individual player’s fees will be 50rs.\n
+        \n3) Only 5 players allowed in one group.\n
+        \n4) Tournament will be played as per knockout rule.\n
+        \n5) The map will be selected by cordinators.\n</item>
+        <item>Not Required</item>
+        <item> 16, 17 March,\n10:30 am to 4:30 pm </item>
+        <item>Computer Departmentt</item>
+        <item>7600600921</item>
+        <item>7600600921</item>
+    </string-array>
+
+    <string-array name="live_cs">
+        <item>Live CS</item>
+        <item> - </item>
+        <item>\nGame will be played in 3 round. </item>
+        <item>\n1) The entry fee per group of 5 player will be200rs.\n
+\n2) Individual player’s fees will be 50rs.\n
+\n3) Only 5 players allowed in one group.\n
+\n4) Game will be played in 3 round.\n
+\n5) Tournament will be played as per knockout rule.\n
+\n6) The map will be selected by cordinators.</item>
+        <item> Not Required </item>
+        <item> 16, 17 March,\n10:30 am to 4:30 pm </item>
+        <item>Computer Departmentt</item>
+        <item>7687031045</item>
+        <item>7687031045</item>
+    </string-array>
+
+    <string-array name="hogwarts_mayanagri">
+        <item>Hogwarts Mayanagri</item>
+        <item>\nIt is a non-technical team game. \n\nThe game will be played on a board with lots of mysterious task involved at each stage that are supposed to be done(achieved) by team members.\n\n The team that complete the task first would be the winner among teams and will be awarded by prize.</item>
+        <item>No Levels</item>
+        <item>\n1) Number of team members in each team must be 3 to 4.\n
+        \n2) All branch students are eligible to take part in this mysterious game.\n
+        \n3) Team members are supposed to complete the task in the time limit.\n
+        \n4) It demands a good confidence level to tackle the situations(tasks given) on the spot.\n
+        \n5) It’s not an individual effort but it’s a team work.\n
+        \n6) Registration Fee: 50 rupees per person\n</item>
+        <item>Not Required</item>
+        <item> 16, 17 March,\n10:30 am to 4:30 pm </item>
+        <item>Computer Departmentt</item>
+        <item>8460721997</item>
+        <item>8460721997</item>
+    </string-array>
+
+
+    <!--non-tech civil-->
+
+    <string-array name="BEST_OUT_OF_WASTE">
+        <item>Best Out Of Waste</item>
+        <item>\nIn this Event participants will have to make best thing by using given waste material from our side in given time period.</item>
+        <item>No Levels</item>
+        <item>\n1) Minimum 2 and Maximum 4 members in each group. \n
+\n2) Materials will be provided once group wise.\n
+            \n3) Every group will have to give the name of their project within 10 minutes of starting time.\n
+\n4) Time for completion of work is 1.5 hrs.\n
+\n5) No extra help will be taken from outside, if done so respective group will be disqualified.\n \n 6) One can bring extra waste materials if required, but should be informed to the coordinators.\n
+\n7) Minus marking will be there for extra left materials\n
+\n8) Only complete projects will be judged. \n
+\n9) Decision of judges will be last and final, no argument and re-evaluation will be entertained.\n</item>
+        <item>Not Required</item>
+        <item> 16, 17 March,\n10:30 am to 4:30 pm </item>
+        <item>Civil Department</item>
+        <item>9726131997</item>
+        <item>9726131997</item>
+    </string-array>
+
+    <!--  <string-array name="BRIZINGR_STOCK_EXCHANGE">
+          <item>BRIZINGR STOCK EXCHANGE</item>
+          <item>\n - </item>
+          <item> - </item>
+          <item> - </item>
+          <item> - </item>
+          <item> - </item>
+          <item>Civil Department</item>
+          <item>Co-ordinator</item>
+          <item>0000000</item>
+      </string-array>-->
+
+    <!-- non-tech mech -->
+
+    <string-array name="BRIZZRUN">
+        <item>Brizzrun</item>
+        <item>\nEvent is based on physical and mental capability andtime management.\n
+\nIn the event, total task performed by a couple of candidate according to rules and regulation
+
+\n\nTask - 1 : \n Rotated in two separate circle of specific diameter 20 time. Not only rotate but also with step by step walking in rotation direction.
+\n\nTask - 2 : \nThis task performing with two brick, in which one candidate will walk on brick by leg and other candidate move brick to forward direction of walking. Candidate should not touch their other body part to ground. If any mistake occurs by candidates then they given one chance to play this task.
+\n\nTask - 3 : \nThis task performing with benches, in which candidate will pass all benches without support of hand and last jump from the bench.If candidate touch the bench by hand then they declare as disqualify.
+\n\nTask - 4 : \nThis task is perform with sack. It’s a simple task. Wear a sack and walk.
+\n\nTask - 5 : \nThis task is perform with chair, in which candidate’s leg will be tie with string and also chair. One ball will be put on the chair. Candidate must walk with chair and ball should not fall in ground.
+\n\nTask - 6 : \nThis is blind task. In this task, both candidate’s eyes are closed by a blind. Fold and then find each other.
+\n\nTask - 7 : \nThis is also blind task. In this task one candidate’s eyes are closed by a blindfold and then he/she will find a one key from a bowl of flour by the help of mouth. Don’t touch bowl by the hands.
+\n\nTask - 8 : \nThis is final task. In which candidate will open the lock with the help of key which is found by him/her form the flour and glow the bulb.</item>
+        <item>\n<b>Level - 1 :</b>\n
+        \n In the first round first three task will perform.\n
+            \n<b>Level - 2 : </b>\n
+        \n4 and 5 task will performe in round 2.\n
+            \n<b>Level - 3 :</b>\n
+        \nAfter two round, for finalize task 6,7 and 8 will perform. </item>
+        <item>\nDon\'t touch the ground in all task by part of body.\n
+\nIf rule will brake only one chance will given to perform a task.\n
+\nIf the candidate brake the rule second time he/she will disqualified.\n
+</item>
+        <item>Not Required</item>
+        <item> 16, 17 March,\n10:30 am to 4:30 pm </item>
+        <item> Mech Department </item>
+        <item>8758916966</item>
+        <item>8758916966</item>
+    </string-array>
+
+    <string-array name="VOLLEY_BALL">
+        <item>Volley Ball</item>
+        <item>\nThe first impression is the last impression. And this promises to be a good one when you have the best impressionists and comedians on stage.\n\n Double up laughing along with Biswa Kalyan Rath, The Viral Fever, East India Comedy and Revadio.
+    </item>
+        <item>No Levels</item>
+        <item>
+            \n<b>PASSING GAME : </b>
+            \n
+            \n(1) Best of 3 set\n
+\n(2) minimaum 5 and maximum 12 players\n
+\n(3) Rotation rules and other rules as per international level\n
+\n(4) maximum 3 pass\n
+\n(5) Foot are not allowed to pass/take ball\n
+\n(6) Service on the line out\n
+\n(7) Passed ball on the line in\n
+\n(8) Line out service not allowed\n
+\n(9) Minimaum 5 and maximaum 6 players are allowed to play game\n
+\n(10) Shooting type shots are not allowed\n
+\n(11) Id card compalsory\n\n
+            \n<b>SHOOTING GAME : </b>\n
+            \n(1) Best of 3 set\n
+\n(2) Service single pass\n
+\n(3) Netter does not cross 3m line\n
+\n(4) Foot not allowed\n
+\n(5) Net cut service not allowed\n
+\n(6) Maximaum 9 player {6+3}\n
+\n(7) 3 pass allowed\n
+\n(8) Fingering not allowed\n
+\n(9) Final match 21 points\n
+        </item>
+        <item>Not Required</item>
+        <item> 16, 17 March,\n10:30 am to 4:30 pm </item>
+        <item>B/H Comp Department</item>
+        <item>9574159421</item>
+        <item>9574159421</item>
+    </string-array>
+
+    <!--non-tech EC-->
+
+    <string-array name="BZ_CLICKS_ADD_MAKING">
+        <item>BZ Clicks and Ad Making</item>
+        <item>\n Event: Brizingr Clicks.\n\n
+        \nIt is a two days official event.
+
+\n More selectable photos required to be taken by participants.\n
+
+\n At the end of 1st day, photos will be filtered by Main Coordinators.\n
+
+\n Selection of participants for 2nd day will be based on their performance of the 1st day.\n
+
+\n At the end of 2nd day, best of the best photos taking participants will be chosen for winning the event.\n
+
+\n Selection of photos will be done by Main coordinators and their decision will be final.\n
+
+\n Improper activities by participants will bring them to be disqualified.\n
+
+\n Winning criteria will be rank of 1st, 2nd and 3rd as per the performance. Participants will be certified and given the prizes.\n\n
+        \nEvent: Ad Making\n\n
+           \n Topics:\n\n Beti Bachao,
+
+Go Cashless,
+
+Motivational Concept\n
+
+\nEvent Forecast:-\n
+
+\n It’s a complete two days event.\n
+
+\n Maximum 3 participants per group.\n
+
+\n First day participants have to give their topic at first reporting.\n
+
+\n Participants have to make an advertise based on their topic.\n
+
+\n At the end of 2nd day participants have to submit their video advertise.\n
+
+\n Based on this winners will be selected.\n
+
+\n Rank of 1st, 2nd and 3rd will be given as per the performance. Participants will be certified and given the prizes.\n
+        </item>
+        <item>No Levels</item>
+        <item> \nBZ Clicks Rules:\n\n
+        \n Any camera.\n
+
+\n Personal and molding photos are not allowed else disqualified.\n
+
+\n Report after every 2 hours.\n
+
+\n Submission of maximum 100 photos compulsory.\n
+
+\n Editing not allowed.\n
+
+\n Bring your own device and required things.\n
+
+\n Photos must be in .jpg/.jpeg format.\n
+
+\n Maximum events should be covered.\n
+
+\n Only one person should take part.\n\n\n
+        \n Ad Making Rules:\n
+        \n Time duration of video: 2-3 minutes.\n
+
+\n If any type of improper content found in video, participant will be disqualified.\n
+
+\n Selection based on Content, Emotion, Music, Editing.\n
+
+\n Participants have to start their work after reporting on the first day.\n
+
+\n Participants have to bring their own video recorder and other needs.\n
+
+\n Don’t use bollywood and western song for background otherwise point should be deducted.\n
+
+\n Content taken from social media sources then participants will disqualify.\n
+
+\n Fewer photos in video advertise.\n</item>
+        <item>Not Requiredd</item>
+        <item> 16, 17 March,\n10:30 am to 4:30 pm </item>
+        <item>EC Department</item>
+        <item>9408319800</item>
+        <item>9408319800</item>
+    </string-array>
+
+    <string-array name="FB_HITS">
+        <item>FB Hits</item>
+        <item>\nParticipant have to boost their post regarding Brizingr and to reach maximum people they can.</item>
+        <item>No Levels</item>
+        <item>\n1) Participants will have to create fb page on given date.\n
+\n2) Participants have to make admin to the event coordinator and main coordinator of that page.\n
+\n3) Participants can promote till the day of event.\n
+\n4) The page who gets maximum likes will be the winner.\n
+\n5) The use of fake likes will be directly disqualified.\n
+\n6) Participants can only share photos of our event.\n</item>
+        <item>Not Requiredd</item>
+        <item> 16, 17 March,\n10:30 am to 4:30 pm </item>
+        <item>EC Department</item>
+        <item>9537595578</item>
+        <item>9537595578</item>
+    </string-array>
+
+    <string-array name="BREVITY_BUZZ">
+        <item>Brevity Buzz</item>
+        <item>\nBrevity Buzz is a platform for soft skill development through fun and
+
+games. \n\nThe event comprises of various activities where in the participants
+
+get a chance to display their communication skills and also enhance them
+
+through self-learning process.\n\n The event comprises of story building, group
+
+discussions, declamation etc. \n\nThe main attraction of the event would be the
+
+personal interview round which has been developed with utmost care
+
+keeping in mind the industrial environment.\n </item>
+        <item> Differnt Level </item>
+        <item>
+           \n 1) Individual entry.\n
+\n2) Rules for the elimination round will depend on the number of participants.\n
+\n3) Every activity will be monitored and evaluated on the basis of a predetermined evaluation scheme.\n
+\n4) For certain activities, the participants may be asked to switch off or submit their mobiles to the coordinating team.\n
+\n5) The event will focus on testing and enhancing the communication skills.\n
+\n6) Various activities regarding debate and group discussions will be held.\n
+\n7) The topic for extempore will be given 10 minutes in advance.\n
+\n8) In case of group activities, participants will be put into groups by the event coordinators themselves.\n
+\n9) Most of the events will have a time boundary, if an individual or a group exceeds the time limit, the individual loses the marks for same.\n
+\n10) In order to make the event more exciting, the activities will be held in an innovative way, but the basic rules remain the same.\n
+\n11) In case of a tie between individuals or groups, the lucky bonus round question will be asked by the event managing team.\n
+\n12) There will be no negative marking.\n
+\n13) The event will be a two day event which includes the PI round.\n
+\n14) Only the stationary provided by the institute can be used. Students are not allowed to use their own notebooks.\n
+\n15) In case of rounds based on audio clips, the audio will be played only once or in some cases two times.\n
+        </item>
+        <item> Not Required</item>
+        <item> 16, 17 March,\n10:30 am to 4:30 pm </item>
+        <item>EC Department</item>
+        <item>96876676736</item>
+        <item>96876676736</item>
+    </string-array>
+
+    <string-array name="special">
+        <item>6-5=2</item>
+        <item>\nIt is a mathematical event which will also require your general knowledge.</item>
+        <item> \n There is a multiple round. </item>
+        <item> \n1) Purely Mathematical Game.\n
+\n2) General Knowledge Also Required.\n
+\n3) Individual Entry is only allowed.\n
+\n4) First Round Will be conducted via Paper Quiz in which question will be based on Math’s and General Knowledge.\n
+\n5) 18 candidates will be shortlisted from first round.\n
+\n6) These 18 candidates will be equally and impartially divided into 9 group having two candidates in each group.\n
+\n7) Then third Round will be conducted which will consist of 4 stages. \n
+\n8) 3 groups (6 candidates) who will successfully clear all four stages of round three will participate in final round.\n
+\n9) Final Round will be conducted by participation of all 6 candidates participating individually.\n
+\n10) The Final Round will consist of typical problems Projected On Screen.\n
+\n11) In Final Round Only by Observing the Problem and giving on the spot solution is allowed, No Calculators and Rough working on Paper is allowed.\n
+\n12) The Candidates who will successfully clear all problems will be declared as Winner and Runner-Up.\n </item>
+        <item> - </item>
+        <item> 16, 17 March,\n10:30 am to 4:30 pm </item>
+        <item>EC Department</item>
+        <item>9974112644</item>
+        <item>9974112644</item>
+    </string-array>
+
+    <!--non-tech auto-->
+
+    <string-array name="GULLY_CRICKET">
+        <item>Gully Cricket</item>
+        <item> - </item>
+        <item>\nGame will be played in different rounds</item>
+        <item>\n1) Each team will get 4 overs to play\n
+\n2) There will be 5 members in each team \n
+\n3) There will be 1 powerplay over\n
+\n4) Plyers have to bat in pair\n
+        \n5) Last over will be challenging over\n </item>
+        <item>Not Required</item>
+        <item> 16, 17 March,\n10:30 am to 4:30 pm </item>
+        <item>B/H Comp Department</item>
+        <item>7046177229</item>
+        <item>7046177229</item>
+    </string-array>
+
+    <string-array name="MAKE_MONEY">
+        <item>Make Money</item>
+        <item> - </item>
+        <item> \nAfter few rounds, the winners of different rounds can also compete with each other and receive a bigger gift.</item>
+        <item>\n1) It is a simple non tech event.\n
+\n2) The game will begin with around 7-8 participants.\n
+\n3) All the participants after registering will be allocated 20 minutes.\n
+\n4) Every participant need to make as much money as they can by impressing the people in the campus with their skills(singing, dancing, acting) or by whichever means they can convince the people to give them money.\n
+\n5) A volunteer wil be sent along with each participant(for proper functioning of the event).\n
+\n6) After 20 minutes all the participants need to return to the counter with whatever amount they made during the alloted time.The one participant with the maximum amount will be declared the winner. The winner will be presented with a gift hamper.\n</item>
+
+        <item>Not Required</item>
+        <item> 16, 17 March,\n10:30 am to 4:30 pm </item>
+        <item>Auto Department</item>
+        <item>9825059504</item>
+        <item>9825059504</item>
+    </string-array>
+
+    <!--non -tech ic-->
+
+    <string-array name="BZ_TALENT_HUNT">
+        <item>BZ Talent Hunt</item>
+        <item> - </item>
+        <item> \n No Levels </item>
+        <item>
+           \n  1) The entry fees of the event named “Brizingr Got Talent” will be 50rs. per participant(s).\n
+\n 2) The participant(s) should be given an entry card after registration. Without entry card one should not be allowed to perform.\n
+\n 3) The decision of the judges will be binding to all the participant(s). Judges have all the rights to disqualify the entry of the participant(s), if there will be any kind of misbehave against them. Any kind of questionnaires against the decision of the judges will lead to the disqualification of participant(s)/group.\n
+\n 4) These Rules and Regulations (defined below) shall be binding on each individual/group, who participates in this event.\n
+\n 5) The Program is a talent hunt competition where various people showcase their talents (Categories: MUSIC, DANCE, THEATRE) individually or in pairs or in groups (10 Max.) (“Participant(s)”). Each Participant competes against the other Participant(s) and a qualifying Participant(s) shall proceed to the next levels of the competition of the Program, as per the format of the Program.\n
+\n 6) The maximum time allowed for the performances of categories (MUSIC, DANCE (OTHER THEN FOLK)) will be 05 mins and for the performances based on category (THEATRE, FOLK DANCE) will be given 08 mins.\n
+\n 7) There will be two rounds of this event named “Brizingr Got Talent”. In the first round, it will be an open challenge round anyone can participate in this round by registering their names by any procedures (from campus campaigning / on the spot registration at the registration desk in the college). No visitors are allowed to enter in the auditorium during the first round (16th march). The second round will be open for all the visitors (17th march). In this round, only the selected participant(s) should be eligible to showcase their talent based on previous round.\n
+\n 8) Any coordinators/Brizingr Got Talent/GEC-Rajkot shall not be responsible and/or liable for any injury, death, mental trauma caused to the Participant(s) of any nature whatsoever during or anytime of the event.\n
+\n 9) The Participant shall not be eligible for any prize or cash.\n
+\n 10) The Participant understands that the performance should not be obscene, vulgar, defaming, denigrating women, artist, celebrity or children, hurting religious sentiments, depicting violence or against the public policy of India or/and the internal policies of GEC-Rajkot.\n
+\n 11) Any coordinator(s)/Brizingr Got Talent/GEC-Rajkot shall not be liable for any loss of earnings, employment or otherwise caused to the Participant(s) or their parents or legal guardians.\n
+\n 12) Coordinators reserve the right to discontinue/cancel/change/alter/modify terms and conditions and/or criteria of the registration process, at any time at their own discretion and without any prior notice and without assigning any reason. It shall be the sole responsibility of the Participant(s) to check the rules and regulations of the event.\n
+\n 13) The Participant(s) hereby agrees and confirms that any and all decisions of “Brizingr Got Talent” in connection with registration, selection, disqualification for the second round, is final and binding and is non-contestable. The Participant(s) shall neither question such process nor dispute the same in any manner. In case of any dispute or difference in respect of above, decision of coordinators shall be final and binding on all participant(s).\n
+\n 14) In the event of any misbehave/violation of any terms and conditions or obligation or undertakings by the Participant(s) as herein mentioned and/or as required by “Brizingr Got Talent” (coordinators), shall immediately disqualify the Participant(s).\n
+        </item>
+
+        <item>Not Required</item>
+        <item> 16, 17 March,\n10:30 am to 4:30 pm </item>
+        <item>IC\nDepartment</item>
+        <item>7405235735</item>
+        <item>7405235735</item>
+    </string-array>
+
+    <string-array name="on_the_spot_painting">
+        <item>On The Spot Painting</item>
+        <item>
+           \n  Painting is concerned with all the 10 attributes of sight; which are: Darkness, Light, Solidity and Colour, Form and Position, Distance and Propinquity, Motion and Rest.\n
+\n We are highly excited to invite you in "on the spot painting " event of brizingr 2K17.\n
+\n Express your imagination and draw fill the blank paper with your creativity.\n
+        </item>
+        <item>No Levels</item>
+        <item>
+           \n  participated students have to bring their required color kits (all types of color allowed).\n
+\n Drawing sheet will be provided by us.\n
+\n Decision of judges will be final.\n
+        </item>
+        <item>Not Required</item>
+        <item> 16, 17 March,\n10:30 am to 4:30 pm </item>
+        <item>IC\nDepartment</item>
+        <item>9427329365</item>
+        <item>9427329365</item>
+    </string-array>
+
+    <string-array name="rj_hunt">
+        <item>RJ Hunt</item>
+        <item>\n A Competition based on RJying. Participants will be checked their communication skill, voice and creativity. Br a RJ. Live you Dreams.</item>
+        <item>
+           \n  LEVEL 1 :- \n \n 1)Lecture,\n
+          \n   2)A Lecture will be conducted by leading RJs.\n
+            \n 3) General topic group discussion.\n
+
+         \n    LEVEL 2 :-\n\n   1) Dual link (live show) Participants have to do live show on given topic with their partener.\n
+          \n   2) Advetising Participants have to make an advertisement on given brands/products.\n
+
+\n LEVEL 3 :-\n \n  1) Inteview participants have to record an interview.\n
+            \n 2) Individual (Live Show) Participants have to perform a live show on given topic.\n
+          \n   3) Multitasking participants have to perform the given task while doing the live show.\n
+        </item>
+        <item>
+          \n   Robot Specification : - \n
+\n 1) Teams will be selected at random.\n
+       \n      2) Judgment will be based on presentation, voice quality and creativity.\n
+        </item>
+        <item>Not Required</item>
+        <item> 16, 17 March,\n10:30 am to 4:30 pm </item>
+        <item>IC\nDepartment</item>
+        <item>9714154063</item>
+        <item>9714154063</item>
+    </string-array>
+
+
+    <!--//Schedule-->
+
+
+    <string name="schedule">
+        \n<b><i><u>DAY 1(16 March ,2016)</u></i></b>\n
+      \n  . <b>Inauguration</b>  – 9:00 AM to 9:45 AM  \n
+ \n. <b>Technical events</b> – 10:30 AM to 4:30 PM \n
+
+ \n. <b>Non-Technical events</b> - 10:30 AM to 4:30 PM \n
+
+ \n. <b>Live Stage and On the Spot events</b> – Throughout the Event time \n \n
+
+        \n<b><i><u>DAY 2 (17 March ,2016)</u></i></b>\n
+
+        \n . <b>Technical events</b> – 10:00 AM to 3:30 PM \n
+
+ \n. Final Round \n
+ \n. <b>Non-Technical events</b> – 10:00 AM to 3:30 PM \n
+
+ \n. Final Round \n
+ \n. <b>Live Stage and On the Spot events</b> – Throughout the Event time \n \n
+
+
+        \n<b><i><u>DAY 3 (18 March ,2016)</u></i></b>\n
+         \n. <b>Cultural Function</b> – 10:30 AM to 4:30 PM  \n
+
+    </string>
+
+
+</resources>

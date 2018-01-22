@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_dashboard"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_background"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:background="@color/colorPrimary"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+
+
+        <TextView
+            android:textColor="@color/white"
+            android:id="@+id/action_title"
+            android:paddingTop="5dp"
+            android:text="Brizingr'16"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <ViewFlipper
+            android:paddingBottom="5dp"
+            android:id="@+id/flipper"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:textColor="@color/white"
+                android:id="@+id/flip1"
+                android:gravity="center"
+                android:text="Organized by GEC Rajkot"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:textColor="@color/white"
+                android:id="@+id/flip2"
+                android:text="The biggest techfest of Saurashtra"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+        </ViewFlipper>
+
+
+
+    </LinearLayout>
+
+    <LinearLayout style="@style/dashboard_layout">
+
+        <Button
+            android:id="@+id/dashboard_btn_about_brizingr"
+            style="@style/dashboard_button"
+            android:drawableTop="@mipmap/ic_about_brizingr"
+            android:paddingTop="25dp"
+            android:text="About Brizingr"
+            android:layout_margin="10dp"
+            />
+
+
+
+        <Button
+            android:id="@+id/dashboard_btn_schedule"
+            style="@style/dashboard_button"
+            android:drawableTop="@mipmap/ic_calendar"
+            android:text="Schedule"
+            android:layout_marginBottom="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:paddingTop="25dp"
+            />
+
+
+
+    </LinearLayout>
+
+
+    <LinearLayout style="@style/dashboard_layout">
+
+        <Button
+            android:id="@+id/dashboard_btn_event"
+            style="@style/dashboard_button"
+            android:drawableTop="@mipmap/ic_events"
+            android:text="Events"
+            android:layout_marginBottom="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            android:paddingTop="25dp"
+            />
+
+
+    </LinearLayout>
+
+    <LinearLayout style="@style/dashboard_layout">
+
+        <Button
+            android:id="@+id/dashboard_btn_seminar"
+            style="@style/dashboard_button"
+            android:drawableTop="@mipmap/ic_gallery"
+            android:text="Gallery"
+            android:layout_marginBottom="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            android:paddingTop="25dp"
+            />
+
+        <Button
+            android:id="@+id/dashboard_btn_contact_us"
+            style="@style/dashboard_button"
+            android:drawableTop="@mipmap/ic_contact_us"
+            android:text="Contact us"
+            android:layout_marginBottom="10dp"
+            android:layout_marginRight="10dp"
+            android:paddingTop="25dp"
+            />
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:background="@color/colorPrimary"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+
+
+        <TextView
+            android:textColor="@color/white"
+            android:id="@+id/developedbytitle"
+            android:paddingTop="5dp"
+            android:text="~ Developed by ~"
+            android:gravity="center"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <ViewFlipper
+            android:paddingBottom="5dp"
+            android:id="@+id/flipper2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:textStyle="bold"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/white"
+                android:id="@+id/flip_krishna_1"
+                android:gravity="center"
+                android:text="GEC RAJKOT"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:textStyle="bold"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/white"
+                android:id="@+id/flip_krishna"
+                android:text="Krishna Kandhani"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+        </ViewFlipper>
+
+
+
+    </LinearLayout>
+
+</LinearLayout>

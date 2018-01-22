@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+
+    android:background="@color/light_background"
+    android:orientation="horizontal">
+
+        <TextView
+            android:background="@color/colorPrimary"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:padding="15dp"
+            android:textColor="@color/white"
+            android:id="@+id/my_event_heading"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:gravity="center"
+            android:text="EventName"
+            android:textAppearance="?android:textAppearanceLarge" />
+
+
+</LinearLayout>

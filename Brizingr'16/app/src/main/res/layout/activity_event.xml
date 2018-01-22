@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_event"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/light_background"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_weight="2">
+
+
+        <LinearLayout style="@style/dashboard_layout">
+
+            <Button
+                android:id="@+id/dashboard_btn_about_comp"
+                style="@style/dashboard_button"
+                android:drawableTop="@mipmap/ic_comp"
+                android:text="C - Geeks"
+                android:paddingTop="15dp"
+                android:layout_margin="10dp"
+                />
+
+            <Button
+                android:id="@+id/dashboard_btn_mecht"
+                style="@style/dashboard_button"
+                android:drawableTop="@mipmap/ic_mechl"
+                android:text="Mechstars"
+                android:layout_marginBottom="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:paddingTop="15dp"
+                />
+
+
+        </LinearLayout>
+
+
+        <LinearLayout style="@style/dashboard_layout">
+
+            <Button
+                android:id="@+id/dashboard_btn_civil"
+                style="@style/dashboard_button"
+                android:drawableTop="@mipmap/ic_civill"
+                android:text="Civilions"
+                android:layout_marginBottom="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                android:paddingTop="15dp"
+                />
+
+            <Button
+                android:id="@+id/dashboard_btn_auto"
+                style="@style/dashboard_button"
+                android:drawableTop="@mipmap/ic_carl"
+                android:text="Automs"
+                android:layout_marginBottom="10dp"
+                android:layout_marginRight="10dp"
+                android:paddingTop="15dp"
+                />
+
+
+        </LinearLayout>
+
+        <LinearLayout style="@style/dashboard_layout">
+
+            <Button
+                android:id="@+id/dashboard_btn_ic"
+                style="@style/dashboard_button"
+                android:drawableTop="@mipmap/ic_controller"
+                android:text="Controllers"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginBottom="10dp"
+                android:paddingTop="15dp"
+                />
+
+            <Button
+                android:id="@+id/dashboard_btn_ec"
+                style="@style/dashboard_button"
+                android:drawableTop="@mipmap/ic_ec"
+                android:text="Transfiers"
+                android:layout_marginBottom="10dp"
+                android:layout_marginRight="10dp"
+                android:paddingTop="15dp"
+                />
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_weight="6">
+
+        <Button
+            style="@style/dashboard_button"
+            android:id="@+id/dashboard_btn_nontech"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:drawableTop="@mipmap/ic_joyl"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            android:paddingTop="15dp"
+            android:text="Non - Technical" />
+
+
+    </LinearLayout>
+
+    </LinearLayout>
+
+
+
+
